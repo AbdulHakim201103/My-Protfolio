@@ -89,3 +89,18 @@ strong{
     background-image: url(/image/exp-bg.png);
     background-repeat: no-repeat;
 }
+footer{
+    background-color: black;
+    margin-bottom: 20px;
+    
+}
+.copyright{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.foot{
+    font-size: 20px;
+    color: coral;
+}
+
