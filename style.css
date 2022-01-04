@@ -4,12 +4,15 @@ body{
 }
 section{
     display: flex;
-    background-image: url(/image/top-banner.png);
     background-repeat: no-repeat;
     margin-bottom: 150px;
 }
+.head{
+    background-image: url(/image/top-banner.png);
+}
 span{
     color: rgb(236, 96, 45);
+    font-size: 60px;
 }
 h1{
     font-size: 40px;
@@ -30,6 +33,7 @@ h3{
 }
 p{
     color: rgb(0, 151, 58);
+    padding-bottom: 20px;
 }
 strong{
     color:red ;
@@ -38,6 +42,7 @@ strong{
     width: 50%;
     margin-left: 5px;
     padding: 10px;
+    text-align: center;
 }
 .half-head img{
     width: 100%;
@@ -48,5 +53,39 @@ strong{
     background-position: right;
 }
 .dream{
+    text-align: center;
     color:rgb(236, 96, 45) ;
+}
+.experiences{
+    text-align: center;
+    color: rgb(236, 96, 45) ;
+    padding-bottom: 40px;
+}
+.last{
+    box-shadow: 15px 15px 15px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-image: linear-gradient(blue,orange);
+
+    
+
+}
+.p-1{
+    color: rgb(30, 255, 0);
+}
+.bold{
+    background-color: white;
+    border-radius: 5px;
+    padding: 1px;
+    
+}
+.developer{
+    display: flex;
+    background-image: url(/image/exp-bg.png);
+    background-repeat: no-repeat;
 }
