@@ -1,0 +1,52 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+section{
+    display: flex;
+    background-image: url(/image/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+span{
+    color: rgb(236, 96, 45);
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    background-color: aqua;
+    color: rgb(218, 0, 36);
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+.button{
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(tomato,red);
+    padding: 10px;
+    border-radius: 5px;
+}
+p{
+    color: rgb(0, 151, 58);
+}
+strong{
+    color:red ;
+}
+.half-head{
+    width: 50%;
+    margin-left: 5px;
+    padding: 10px;
+}
+.half-head img{
+    width: 100%;
+}
+.dream-bag{
+    background-image: url(/image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream{
+    color:rgb(236, 96, 45) ;
+}
