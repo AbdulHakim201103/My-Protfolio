@@ -48,7 +48,7 @@ strong{
     width: 100%;
 }
 .dream-bag{
-    background-image: url(/image/dream-bg.png);
+    background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -86,7 +86,7 @@ strong{
 }
 .developer{
     display: flex;
-    background-image: url(/image/exp-bg.png);
+    background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
 }
 footer{
